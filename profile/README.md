@@ -5,7 +5,7 @@ https://github.com/howl-castle
 ### 👉 PODO Mobile App (iOS)
 https://github.com/howl-castle/PODO-iOS 
 ### 👉 PODO Server
-https://github.com/howl-castle/PODO-API 
+https://github.com/howl-castle/PODO-API-TON
 ### 👉 dApp for PODO service platform
 https://github.com/howl-castle/PODO-TON <br/>
 https://github.com/howl-castle/podo-dapp
